@@ -1,24 +1,23 @@
 {
-    "name": "saade/filament-fullcalendar",
+    "name": "hassnaedh/filament-fullcalendar",
     "description": "The Most Popular JavaScript Calendar integrated with Filament 💛",
     "keywords": [
-        "saade",
+        "hassnaedh",
         "laravel",
         "filament-fullcalendar"
     ],
-    "homepage": "https://github.com/saade/filament-fullcalendar",
+    "homepage": "https://github.com/Hassnaedh/filament-fullcalendar",
     "license": "MIT",
     "authors": [
         {
-            "name": "Saade",
-            "email": "saade@outlook.com.br",
-            "role": "Developer"
+            "name": "Hassnaedh",
+            "email": "dehbihassnae@gmail.com"
         }
     ],
     "require": {
         "php": "^8.1",
         "filament/filament": "^3.0",
-        "illuminate/contracts": "^10.0|^11.0|^12.0",
+        "illuminate/contracts": "^10.0|^11.0|^12.0|^13.0",
         "spatie/laravel-package-tools": "^1.13.5"
     },
     "require-dev": {

@@ -59,7 +59,7 @@
 You can install the package via composer:
 
 ```bash
-composer require saade/filament-fullcalendar:^3.0
+composer require hassnaedh/filament-fullcalendar:dev-laravel-13
 ```
 
 <br>
